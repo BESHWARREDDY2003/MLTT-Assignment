@@ -82,8 +82,5 @@ Kaggle
 Cluster Analysis 
 
 Author Information
-Author: R Hari Krishna
-Contact: harikrishna8053@gmail.com
-USN: ENG21DS0030
-linkedin: https://www.linkedin.com/in/r-hari-krishna/
-Github: https://github.com/harikrishna8053
+Author: ESHWAR REDDY B
+USN: ENG21DS0018
